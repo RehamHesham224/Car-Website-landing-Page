@@ -1,2 +1,2 @@
 # Car Website landing Page
-bootstap-jquery-landing-page
+Bootstap & Jquery Landing Page
